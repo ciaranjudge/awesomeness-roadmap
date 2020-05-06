@@ -8,24 +8,38 @@ Coding
   * Automated testing and CI
   * Automated versioning
   * Create and install pip and conda packages
-  * Complete working version of brassicate and cabbagecutter!
-  * Upload repos to pypi and conda-forge
   * Create local package repositories!
+* brassicate and cabbagecutter!
+  * Upload repos to pypi and conda-forge
+  * Include config for:
+   * pytest
+  * Write it all up - docs and blogpost and twitter thread!
+* Style and structure
+  * ['`if` statements are a code smell']https://us.pycon.org/2020/schedule/presentation/87/
+  * Ian Oszvald High Performance Python book
 * Testing
   * Parametrised tests with Hypothesis
   * Improve pytest skills - need better solution than stashing everything in conftest.py
   * Data tests with e.g. Great Expectations (can pydantic do this job?!)
+  * ['Write less and test more with data regression testing']https://us.pycon.org/2020/schedule/presentation/110/
 * Breakpoints and debugging
-  * Nina Zakharenko PyCon 2020 talk
+  * Nina Zakharenko PyCon 2020 talk ['Goodbye `print` - hello, debugger!']https://us.pycon.org/2020/schedule/presentation/158/
+* Error handling!
 * Frameworks to learn and use
   * Pydantic
   * Prefect
   * Intake
   * Dask
 * Frontends
- 
-* Books
-  * Ian Oszvald High Performance Python
+  * Citations and cross-refs
+  * Voila and ipywidgets
+* Privacy-preserving techniques
+  * Pseudo-individuals for minimal anonymous datasets
+  * PyCon 2020 
+   * ['Practical privacy-preserving machine learning']https://us.pycon.org/2020/schedule/presentation/130/
+   * ['Privacy preserving methods - building secure projects']https://us.pycon.org/2020/schedule/presentation/142/
+   * 
+
   
   
 Agile
