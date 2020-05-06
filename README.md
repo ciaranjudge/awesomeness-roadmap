@@ -21,7 +21,9 @@ Coding
   * ['`if` statements are a code smell']https://us.pycon.org/2020/schedule/presentation/87/
   * Ian Oszvald High Performance Python book
 * Templating with jinja
+* SQL
   * Writing better SQL statements in Python https://towardsdatascience.com/advanced-sql-templates-in-python-with-jinjasql-b996eadd761d
+  * https://stackoverflow.com/questions/17327043/how-can-i-select-rows-with-most-recent-timestamp-for-each-key-value
 * Testing
   * Parametrised tests with Hypothesis
   * Improve pytest skills - need better solution than stashing everything in conftest.py
