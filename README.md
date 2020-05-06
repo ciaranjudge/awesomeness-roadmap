@@ -33,7 +33,7 @@ Coding
   * Nina Zakharenko PyCon 2020 talk ['Goodbye `print` - hello, debugger!']https://us.pycon.org/2020/schedule/presentation/158/
 * Error handling!
   * https://www.pythonforthelab.com/blog/learning-not-to-handle-exceptions/
-  * 
+  * https://www.programiz.com/python-programming/user-defined-exception
 * Frameworks to learn and use
   * Pydantic
   * Prefect
