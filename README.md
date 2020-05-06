@@ -17,7 +17,8 @@ Coding
 * Style and structure
   * ['`if` statements are a code smell']https://us.pycon.org/2020/schedule/presentation/87/
   * Ian Oszvald High Performance Python book
-  * Writing better SQL statements in Python - use jinja https://towardsdatascience.com/advanced-sql-templates-in-python-with-jinjasql-b996eadd761d
+* Templating with jinja
+  * Writing better SQL statements in Python https://towardsdatascience.com/advanced-sql-templates-in-python-with-jinjasql-b996eadd761d
 * Testing
   * Parametrised tests with Hypothesis
   * Improve pytest skills - need better solution than stashing everything in conftest.py
