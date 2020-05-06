@@ -10,6 +10,9 @@ Coding
   * Create and install pip and conda packages
   * Create local package repositories!
 * brassicate and cabbagecutter!
+  * How much can anaconda-project take care of? 
+    * https://github.com/Anaconda-Platform/anaconda-project
+    * https://campus.datacamp.com/courses/building-and-distributing-packages-with-conda/anaconda-project?ex=1
   * Upload repos to pypi and conda-forge
   * Include config for:
    * pytest
@@ -27,6 +30,8 @@ Coding
 * Breakpoints and debugging
   * Nina Zakharenko PyCon 2020 talk ['Goodbye `print` - hello, debugger!']https://us.pycon.org/2020/schedule/presentation/158/
 * Error handling!
+  * https://www.pythonforthelab.com/blog/learning-not-to-handle-exceptions/
+  * 
 * Frameworks to learn and use
   * Pydantic
   * Prefect
