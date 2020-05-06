@@ -39,6 +39,7 @@ Coding
   * Prefect
   * Intake
   * Dask
+  * FastAPI and Typer
 * Frontends
   * Citations and cross-refs
   * Voila and ipywidgets
