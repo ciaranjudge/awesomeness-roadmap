@@ -9,6 +9,7 @@ Coding
   * Automated versioning
   * Create and install pip and conda packages
   * Create local package repositories!
+  * Docstrings everywhere https://pypi.org/project/interrogate/ https://hynek.me/articles/document-your-tests/
 * brassicate and cabbagecutter!
   * How much can anaconda-project take care of? 
     * https://github.com/Anaconda-Platform/anaconda-project
@@ -20,6 +21,7 @@ Coding
 * Style and structure
   * ['`if` statements are a code smell']https://us.pycon.org/2020/schedule/presentation/87/
   * Ian Oszvald High Performance Python book
+  * Progress bars https://dev.to/rsalmei/a-cool-new-progress-bar-for-python-1c0g
 * Templating with jinja
 * SQL
   * Writing better SQL statements in Python https://towardsdatascience.com/advanced-sql-templates-in-python-with-jinjasql-b996eadd761d
