@@ -31,6 +31,7 @@ Coding
   * Improve pytest skills - need better solution than stashing everything in conftest.py
   * Data tests with e.g. Great Expectations (can pydantic do this job?!)
   * ['Write less and test more with data regression testing']https://us.pycon.org/2020/schedule/presentation/110/
+  * Mocking https://changhsinlee.com/pytest-mock/
 * Breakpoints and debugging
   * Nina Zakharenko PyCon 2020 talk ['Goodbye `print` - hello, debugger!']https://us.pycon.org/2020/schedule/presentation/158/
 * Error handling!
