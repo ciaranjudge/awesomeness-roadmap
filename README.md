@@ -17,6 +17,7 @@ Coding
   * Upload repos to pypi and conda-forge
   * Include config for:
    * pytest
+   * pip
   * Write it all up - docs and blogpost and twitter thread!
 * Style and structure
   * ['`if` statements are a code smell']https://us.pycon.org/2020/schedule/presentation/87/
